@@ -1,1 +1,11 @@
-bla
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "EQHXZ8M8AV.com.google.DummyApp",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}a
